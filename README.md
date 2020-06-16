@@ -1,3 +1,3 @@
 # Private-Blockchain
 
-A own private blockchain which can run locally.
+An own private blockchain which can run locally.
